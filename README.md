@@ -32,6 +32,7 @@ You can download my CV as [a PDF From my Google Drive](https://drive.google.com/
 - Postman - testing tool for REST API
 - Cucumber - Software supporting behaviour driven development
 - Selenium Webdriver - for automated testing of web applications
+- Gatling - load testing tool
 - Java - intermediate level
 - IntelliJ IDEA - Development environment for Java
 - Markdown
