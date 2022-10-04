@@ -11,37 +11,35 @@ You can download my CV as [a PDF From my Google Drive](https://drive.google.com/
 
 ## Courses
 
-- TAU
-- Udemy
+- Selenium webdriver with Java -Test Automation University
+- Postman - Test Automation University
+- Performance Testing - Automation step by step
 
 ## Certificates
 
-- selenium web
-- strategy for automation testing
+- selenium WebDriver with [Python](https://testautomationu.applitools.com/certificate/?id=3a302557)
+- strategy for [automation testing](https://testautomationu.applitools.com/certificate/?id=45f04042)
+- Azure Fundamentals
+- Azure Administrator Associate
 
 ## Tools
 
-- Azure Devops
-- Test Trail
-- Chrome Dev Tools
+- Azure Devops - bug tracking & test management
+- Test Trail - test case creation & management
+- Chrome Dev Tools - for testing and to improve bug reports
 - Git, Git Bash, Github
-- MySQL
-- Postman
-- Cucumber
-- Selenium Webdriver
-- Java
-- IntelliJ IDEA
+- MySQL - relational database management system
+- Postman - testing tool for REST API
+- Cucumber - Software supporting behaviour driven development
+- Selenium Webdriver - for automated testing of web applications
+- Java - intermediate level
+- IntelliJ IDEA - Development environment for Java
 - Markdown
 
 ## Books
 
-- QA 
-- software testing
+- Full Stack Testing - A practical guide for delivering high quality software
 
-## Blogs l read
-
-- QA 
-- software testing
 
 ## My projects
 
