@@ -7,7 +7,7 @@ In this portfolio I would like to share my testing knowledge and exhibit my tech
 
 ## CV
 
-[You can download my CV as a PDF From my Google Drive](https://drive.google.com/file/d/1J2Wc7dWOZObxhNgWKs1T1ayiMKfUbQfP/view?usp=sharing)
+You can download my CV as [a PDF From my Google Drive](https://drive.google.com/file/d/1J2Wc7dWOZObxhNgWKs1T1ayiMKfUbQfP/view?usp=sharing)
 
 ## Courses
 
