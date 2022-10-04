@@ -1,25 +1,26 @@
 ### PORTFOLIO
-
+--------------------------------------------------------
 ## About me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Experienced Software Tester with a demonstrated history of working in the information technology and services industry. Skilled in software quality assurance, manual testing and test automation. Strong engineering professional with a Bachelor's degree focused in Information Technology from Strathmore University.
+In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. 
 
 ## CV
----------------------------------------------------------
-You can download my CV as a PDF From my Google Drive
+
+[You can download my CV as a PDF From my Google Drive](https://drive.google.com/file/d/1J2Wc7dWOZObxhNgWKs1T1ayiMKfUbQfP/view?usp=sharing)
 
 ## Courses
---------------------------------------------------------
+
 - TAU
 - Udemy
 
 ## Certificates
----------------------------------------------------------
+
 - selenium web
 - strategy for automation testing
 
 ## Tools
---------------------------------------------------------
+
 - Azure Devops
 - Test Trail
 - Chrome Dev Tools
@@ -33,17 +34,17 @@ You can download my CV as a PDF From my Google Drive
 - Markdown
 
 ## Books
----------------------------------------------------------
+
 - QA 
 - software testing
 
 ## Blogs l read
----------------------------------------------------------
+
 - QA 
 - software testing
 
 ## My projects
---------------------------------------------------------
+
 **Bugs**
 - Bugs on Kazi360 site
 
