@@ -45,13 +45,13 @@ You can download my CV as [a PDF From my Google Drive](https://drive.google.com/
 ## My projects
 
 **Bugs**
-- Bugs on Kazi360 site
+- Bugs on [Kazi360 site](https://drive.google.com/file/d/1s3BprZB-t4-Upoio2HS33yfWR8j63U6v/view?usp=sharing)
 
 **Test Cases**
-- Test case for Kazi360 site
+- Test case for Kazi360 site with [TestTrail](https://drive.google.com/file/d/1WK4K7IYtYdRzV7M2hd5UkGIX95ULcdGu/view?usp=sharing)
 
 **Performance Testing**
-- Gatling Report for Kazi360 test scenario: Post a new Job
+- Gatling Report for Kazi360 test scenario: [Post a new Job](https://drive.google.com/file/d/1qLQvNIEYeoZxtptsJGMK6U_-5Gcd30pR/view?usp=sharing)
 
 **Selenium Webdriver**
 - Form authentication test
