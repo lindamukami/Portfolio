@@ -51,7 +51,10 @@ You can download my CV as [a PDF From my Google Drive](https://drive.google.com/
 - Test case for Kazi360 site with [TestTrail](https://drive.google.com/file/d/1WK4K7IYtYdRzV7M2hd5UkGIX95ULcdGu/view?usp=sharing)
 
 **Performance Testing**
-- Gatling Report for Kazi360 test scenario: [Post a new Job](https://drive.google.com/file/d/1qLQvNIEYeoZxtptsJGMK6U_-5Gcd30pR/view?usp=sharing)
+- Gatling: [Sample Project](https://github.com/lindamukami/computer-database-gatling-project)
+
+**UI Testing**
+- Cypress: [Sample Project](https://github.com/lindamukami/TodoMVC-cypress-project)
 
 **Selenium Webdriver**
 - Form authentication test with [Selenium webdriver Java](https://github.com/lindamukami/Selenium-webdriver)
