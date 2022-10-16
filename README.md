@@ -33,7 +33,9 @@ You can download my CV as [a PDF From my Google Drive](https://drive.google.com/
 - Cucumber - Software supporting behaviour driven development
 - Selenium Webdriver - for automated testing of web applications
 - Gatling - load testing tool
+- Cypress - UI automation testing tool
 - Java - intermediate level
+- Python - intermediate level
 - IntelliJ IDEA - Development environment for Java
 - Markdown
 
@@ -54,7 +56,10 @@ You can download my CV as [a PDF From my Google Drive](https://drive.google.com/
 - Gatling: [Sample Project](https://github.com/lindamukami/computer-database-gatling-project)
 
 **UI Testing**
-- Cypress: [Sample Project](https://github.com/lindamukami/TodoMVC-cypress-project)
+- Cypress: [Sample Project](https://github.com/lindamukami/test-automation-cypress)
+
+**API Testing**
+- Cypress: [Sample Project](https://github.com/lindamukami/api-testing-cypress)
 
 **Selenium Webdriver**
 - Form authentication test with [Selenium webdriver Java](https://github.com/lindamukami/Selenium-webdriver)
